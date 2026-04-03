@@ -6,6 +6,8 @@ quality_filter_result/
 # 학습 결과물
 outputs/
 outputs_mini/
+outputs_effb0/
+outputs_effb4/
 *.pth
 
 # 임시
